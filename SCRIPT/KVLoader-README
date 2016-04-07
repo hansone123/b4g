@@ -1,0 +1,1 @@
+java -jar /home/hansone123/Desktop/b4g/EXE/KVLoader.jar /tmp/KVoutput/ .kv ../schema/
